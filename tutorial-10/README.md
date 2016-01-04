@@ -1,4 +1,4 @@
-#Unvalidate Redirects and Forwards
+#Unvalidated Redirects and Forwards
 
 Objective 1:  Find a spot where an unvalidated redirect or forward is used in the Damn Vulnerable Overpoweringly Cute Cat App.
 
