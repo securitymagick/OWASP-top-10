@@ -1,4 +1,4 @@
-#Remote File Inclusion (RFI)
+#Unrestricted File Upload
 
 Objective 1:  Find a spot where an arbitrary file can be uploaded in the Damn Vulnerable Overpoweringly Cute Cat App.
 
@@ -9,7 +9,7 @@ Objective 3:  Look into how to use Laudanum (http://sourceforge.net/projects/lau
 Objective 4:  Look into how to fix the code so that arbitrary files cannot be uploaded and executed.  Consider how to tell if a file is a valid jpg.  There are different levels this can be taken to, but come up with an improvement and test it.
 
 Please read:
-https://www.owasp.org/index.php/Testing_for_Remote_File_Inclusion
+https://www.owasp.org/index.php/Unrestricted_File_Upload
 
 Walkthrough:
 To be added soon.
