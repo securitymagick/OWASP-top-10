@@ -2,9 +2,9 @@
 
 Objective 1: Map out all the sensitive data in the application, and decide how that data should be protected.  (IE Encrypted / Hashed / Not Displayed / Truncated / What algorithms will you use? / How will your keys be derived?)
 
-Objective 2: Complete cas-tutorials number 3 and 4 to see how password hashing can be done in your CAS login. 
+Objective 2: Complete cas-tutorials number 3 and change the registration and password reset options to support the password hashing.
 
-Objective 3: Change the registration and passsword reset options to support password hashing algorithms matching the cas tutorials.
+Objective 3: Complete the cas-tutorial number 4, and change the registration and passsword reset options to support password hashing algorithms matching the cas tutorials.
 
 Objective 4: Update the DVOCCA other pieces of sensitive data appropriately.
 
